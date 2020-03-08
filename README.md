@@ -6,7 +6,7 @@ A Django application to collect an index of free programming books online. The e
 
 - The application will run from by downloading the repo, running `pipenv install`, `python manage.py migrate`, and `python manage.py runserver`.
 
-##Adding Books
+## Adding Books
 
 You can add books that you would like to read and edit them as you see fit. Connect a URL for a direct link to your books. 
 
